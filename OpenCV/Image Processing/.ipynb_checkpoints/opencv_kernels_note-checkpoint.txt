@@ -1,0 +1,5 @@
+For visualisation on how kernel works visit the following website:
+
+http://setosa.io/ev/image-kernels/
+
+Some use cases of a kernel are smoothing and blurring (these methods reduce noise). These kind of kernels can be used to help with edge detection..
